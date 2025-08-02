@@ -1,2 +1,7 @@
-Zomato dataset
-source: kaggle
+# ZOMATO DATASET
+It consist of restaurant details globally.
+# BASIC DATA EXPLORATION
+# DESCRIPTIVE STATISTICS
+# DATA CLEANING
+# EXPLORATORY DATA ANALYSIS
+# DATA VISULIZATION
